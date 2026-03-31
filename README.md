@@ -2,12 +2,26 @@
   <img src="https://github.com/user-attachments/assets/b934d53f-3eab-4b70-a7ac-70a51d67422e" alt="Aakanksha Sonawane Overview" width="100%" />
 </div>
 
+<h1 align="center">Hi 👋, I'm Aakanksha Sonawane</h1>
+
 <p align="center">
   <b>Software Engineer • Full-Stack • Data Systems</b>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=7F5AF0&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Designing+Clean+Data+Pipelines;Turning+Ideas+Into+Products" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aakanksha-sonawane/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
@@ -30,9 +44,79 @@ current_goal: Software Engineer roles (Amazon / Microsoft / Apple)
 
 ## ⚙️ Tech Arsenal
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,react,nodejs,nextjs,dotnet,aws,snowflake,airflow,tableau&theme=dark" alt="Tech Stack" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="30%" align="center"><strong>Languages</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center"><strong>Frontend & Backend</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center"><strong>Data & Cloud</strong></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🚀 Featured Work
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="YOUR_REPO_LINK_HERE">🔹 Energy Consumption Prediction</a></h4>
+      <p align="center">Machine learning model to forecast energy usage. Delivered actionable insights for performance optimization.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="YOUR_REPO_LINK_HERE">🔹 SoFi Affiliate Analytics</a></h4>
+      <p align="center">End-to-end ETL pipeline and interactive dashboards. Successfully reduced analysis time by ~90%.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="YOUR_REPO_LINK_HERE">🔹 Weather ETL Pipeline</a></h4>
+      <p align="center">Automated data pipeline with robust scheduling and monitoring for scalable, reliable workflows.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="YOUR_REPO_LINK_HERE">🔹 WealthMitra</a></h4>
+      <p align="center">Full-stack finance tracker equipped with advanced analytics and a budget vs. actual tracking system.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -48,46 +132,9 @@ current_goal: Software Engineer roles (Amazon / Microsoft / Apple)
 </div>
 
 <br>
-
-## 🚀 Featured Work
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>🔹 Energy Consumption Prediction</b><br/>
-      <p>Machine learning model to forecast energy usage. Delivered actionable insights for performance optimization.</p>
-      <a href="YOUR_REPO_LINK_HERE">View Project ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>🔹 SoFi Affiliate Analytics</b><br/>
-      <p>End-to-end ETL pipeline and interactive dashboards. Successfully reduced analysis time by ~90%.</p>
-      <a href="YOUR_REPO_LINK_HERE">View Project ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🔹 Weather ETL Pipeline (Airflow)</b><br/>
-      <p>Automated data pipeline with robust scheduling and monitoring for scalable, reliable workflows.</p>
-      <a href="YOUR_REPO_LINK_HERE">View Project ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>🔹 WealthMitra</b><br/>
-      <p>Full-stack finance tracker equipped with advanced analytics and a budget vs. actual tracking system.</p>
-      <a href="YOUR_REPO_LINK_HERE">View Project ↗</a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/aakanksha-sonawane/">
-    <img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0C0C0,100:7F5AF0&height=120&section=footer" alt="Waving Footer" />
+</p>
+<p align="center">
+  <i>“Turning Ideas Into Products.”</i> 🚀
 </p>
