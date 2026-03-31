@@ -2,7 +2,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b934d53f-3eab-4b70-a7ac-70a51d67422e">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b934d53f-3eab-4b70-a7ac-70a51d67422e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bcd78cc4-5a1b-4ee2-8e09-2a6beab1894b">
     <img src="https://github.com/user-attachments/assets/b934d53f-3eab-4b70-a7ac-70a51d67422e" alt="Aakanksha Sonawane Overview" width="100%">
   </picture>
 </p>
