@@ -1,7 +1,11 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b934d53f-3eab-4b70-a7ac-70a51d67422e" alt="Aakanksha Sonawane Overview" width="100%" />
-</div>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b934d53f-3eab-4b70-a7ac-70a51d67422e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b934d53f-3eab-4b70-a7ac-70a51d67422e">
+    <img src="https://github.com/user-attachments/assets/b934d53f-3eab-4b70-a7ac-70a51d67422e" alt="Aakanksha Sonawane Overview" width="100%">
+  </picture>
+</p>
 <h1 align="center">Hi 👋, I'm Aakanksha Sonawane</h1>
 
 <p align="center">
@@ -123,12 +127,25 @@ current_goal: Software Engineer roles (Amazon / Microsoft / Apple)
 ## 📊 GitHub Pulse
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakanksha2412&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F5AF0" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakanksha2412&theme=tokyonight&hide_border=true&title_color=7F5AF0" height="160" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aakanksha2412&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F5AF0">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Aakanksha2412&show_icons=true&theme=default&hide_border=true&title_color=7F5AF0">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aakanksha2412&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F5AF0" height="160" alt="GitHub Stats" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Aakanksha2412&theme=tokyonight&hide_border=true&title_color=7F5AF0">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Aakanksha2412&theme=default&hide_border=true&title_color=7F5AF0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakanksha2412&theme=tokyonight&hide_border=true&title_color=7F5AF0" height="160" alt="GitHub Streak" />
+  </picture>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakanksha2412&layout=compact&theme=tokyonight&hide_border=true&title_color=7F5AF0" height="150" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakanksha2412&layout=compact&theme=tokyonight&hide_border=true&title_color=7F5AF0">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakanksha2412&layout=compact&theme=default&hide_border=true&title_color=7F5AF0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakanksha2412&layout=compact&theme=tokyonight&hide_border=true&title_color=7F5AF0" height="150" alt="Top Languages" />
+  </picture>
 </div>
 
 <br>
