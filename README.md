@@ -1,76 +1,93 @@
-<!-- Header -->
+<div align="center">
+  <img src="YOUR_CUSTOM_BANNER_IMAGE_LINK_HERE" alt="Aakanksha Sonawane Overview" width="100%" />
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:C0C0C0&height=180&section=header&text=Aakanksha%20Sonawane&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+  <b>Software Engineer • Full-Stack • Data Systems</b>
 </p>
 
-<h3 align="center">Software Engineer | Full-Stack | Data Systems</h3>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 M.S. Information Systems @ Syracuse University  
-- 💻 Software Engineer with experience in **full-stack development & data engineering**  
-- ⚡ Built scalable systems using **React, Node.js, .NET, AWS, Snowflake**  
-- 📊 Passionate about **data-driven systems, ETL pipelines & analytics**  
-- 🚀 Currently targeting **Software Engineer roles (Amazon / Microsoft / Apple)**  
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
-
-### 🌐 Frameworks & Tools
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![.NET](https://img.shields.io/badge/.NET-111?style=for-the-badge&logo=dotnet)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js)
-
-### ☁️ Data & Cloud
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazon-aws)
-![Snowflake](https://img.shields.io/badge/Snowflake-111?style=for-the-badge&logo=snowflake)
-![Airflow](https://img.shields.io/badge/Airflow-111?style=for-the-badge&logo=apache-airflow)
-![Tableau](https://img.shields.io/badge/Tableau-111?style=for-the-badge&logo=tableau)
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakanksha2412&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakanksha2412&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F5AF0&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Designing+Clean+Data+Pipelines;Turning+Ideas+Into+Products" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧊 About Me
 
-🔹 **Energy Consumption Prediction**  
-→ ML model for forecasting energy usage & optimization insights  
+```yaml
+name: Aakanksha Sonawane
+role: Software Engineer
+focus: Full-Stack Development + Data Engineering
+education: MS Information Systems @ Syracuse University
+current_goal: Software Engineer roles (Amazon / Microsoft / Apple)
+```
 
-🔹 **SoFi Affiliate Analytics**  
-→ End-to-end ETL + dashboarding for marketing ROI optimization  
+- 💡 I build scalable applications & data pipelines.
+- ⚙️ Experienced with real-world systems (ETL, dashboards, APIs).
+- 📊 Strong focus on performance, automation & clean architecture.
 
-🔹 **Weather ETL Pipeline (Airflow)**  
-→ Automated pipeline with scheduling, transformation & monitoring  
+<br>
 
-🔹 **WealthMitra**  
-→ Full-stack finance tracker with analytics dashboard  
+## ⚙️ Tech Arsenal
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,react,nodejs,nextjs,dotnet,aws,snowflake,airflow,tableau&theme=dark" alt="Tech Stack" />
+</div>
+
+<br>
+
+## 📊 GitHub Pulse
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakanksha2412&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F5AF0" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakanksha2412&theme=tokyonight&hide_border=true&title_color=7F5AF0" height="160" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakanksha2412&layout=compact&theme=tokyonight&hide_border=true&title_color=7F5AF0" height="150" alt="Top Languages" />
+</div>
+
+<br>
+
+## 🚀 Featured Work
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🔹 Energy Consumption Prediction</b><br/>
+      <p>Machine learning model to forecast energy usage. Delivered actionable insights for performance optimization.</p>
+      <a href="YOUR_REPO_LINK_HERE">View Project ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>🔹 SoFi Affiliate Analytics</b><br/>
+      <p>End-to-end ETL pipeline and interactive dashboards. Successfully reduced analysis time by ~90%.</p>
+      <a href="YOUR_REPO_LINK_HERE">View Project ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🔹 Weather ETL Pipeline (Airflow)</b><br/>
+      <p>Automated data pipeline with robust scheduling and monitoring for scalable, reliable workflows.</p>
+      <a href="YOUR_REPO_LINK_HERE">View Project ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>🔹 WealthMitra</b><br/>
+      <p>Full-stack finance tracker equipped with advanced analytics and a budget vs. actual tracking system.</p>
+      <a href="YOUR_REPO_LINK_HERE">View Project ↗</a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/aakanksha-sonawane/  
-- 📧 Email: your-email@example.com  
-
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/aakanksha-sonawane/">
+    <img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 <p align="center">
-  ✨ Building scalable systems | Turning data into decisions ✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0C0C0,100:7F5AF0&height=120&section=footer" alt="Waving Footer" />
 </p>
