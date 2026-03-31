@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_CUSTOM_BANNER_IMAGE_LINK_HERE" alt="Aakanksha Sonawane Overview" width="100%" />
+  <img src="https://github.com/user-attachments/assets/e1d4873c-48c8-4f30-bf8d-3c8180089a3e" alt="Aakanksha Sonawane Overview" width="100%" />
 </div>
 
 <p align="center">
