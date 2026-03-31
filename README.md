@@ -133,8 +133,17 @@ current_goal: Software Engineer roles (Amazon / Microsoft / Apple)
 
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0C0C0,100:7F5AF0&height=120&section=footer" alt="Waving Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0&height=4" alt="Divider" width="100%"/>
 </p>
+
+<h3 align="center">Thanks for dropping by! ☕</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=7F5AF0&center=true&vCenter=true&width=500&lines=%E2%80%9CTurning+Ideas+Into+Products.%E2%80%9D+%F0%9F%9A%80;%E2%80%9CAlways+Learning,+Always+Building.%E2%80%9D+%E2%9A%99%EF%B8%8F" alt="Animated Quote" />
+</div>
+
 <p align="center">
-  <i>“Turning Ideas Into Products.”</i> 🚀
+  <a href="#"><img src="https://img.shields.io/badge/⬆_Back_to_Top-252F3F?style=flat-square" alt="Back to top"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Aakanksha2412&label=Profile%20Views&color=7F5AF0&style=flat-square" alt="Profile views" />
 </p>
