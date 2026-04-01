@@ -86,7 +86,7 @@ current_goal: Software Engineer roles (Amazon / Microsoft / Apple)
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="YOUR_REPO_LINK_HERE">🔹 Energy Consumption Prediction</a></h4>
+      <h4 align="center"><a href="https://github.com/Aakanksha2412/Energy-Consumption-Prediction">🔹 Energy Consumption Prediction</a></h4>
       <p align="center">Machine learning model to forecast energy usage. Delivered actionable insights for performance optimization.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -104,7 +104,7 @@ current_goal: Software Engineer roles (Amazon / Microsoft / Apple)
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="YOUR_REPO_LINK_HERE">🔹 Weather ETL Pipeline</a></h4>
+      <h4 align="center"><a href="https://github.com/Aakanksha2412/ETL_Weather-Airflow">🔹 Weather ETL Pipeline</a></h4>
       <p align="center">Automated data pipeline with robust scheduling and monitoring for scalable, reliable workflows.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
@@ -112,7 +112,7 @@ current_goal: Software Engineer roles (Amazon / Microsoft / Apple)
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="YOUR_REPO_LINK_HERE">🔹 WealthMitra</a></h4>
+      <h4 align="center"><a href="https://github.com/Aakanksha2412/WealthMitra">🔹 WealthMitra</a></h4>
       <p align="center">Full-stack finance tracker equipped with advanced analytics and a budget vs. actual tracking system.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
