@@ -94,7 +94,7 @@ current_goal: Software Engineer roles (Amazon / Microsoft / Apple)
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="YOUR_REPO_LINK_HERE">🔹 SoFi Affiliate Analytics</a></h4>
+      <h4 align="center"><a href="https://github.com/Aakanksha2412/sofi-affiliate-analytics">🔹 SoFi Affiliate Analytics</a></h4>
       <p align="center">End-to-end ETL pipeline and interactive dashboards. Successfully reduced analysis time by ~90%.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
